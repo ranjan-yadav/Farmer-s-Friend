@@ -11,3 +11,5 @@ Better crop quality : minimal use of pesticides that reduces the toxicity of cro
 Reduction in soil degradation caused by excessive use of pesticides.
 Reduces labour cost.
 Early pest detection - Pest attacks can be detected at very initial stages.
+
+TASK IS NOT COMPLETED, STILL ASSEMBLING IS TO BE DONE. WAITING FOR LOCKDOWN COMPLETION DUE TO CORONA OUTBREAK.
