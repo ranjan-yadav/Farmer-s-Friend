@@ -1,5 +1,5 @@
 # Farmer-s-Friend
-“Farmer’s Friend” is an autonomous ground vehicle (rover) designed to increase the quality and yield of crops (we are focusing mainly on Tomatoes). It is amalgamation of software and hardware which will be used by the customers mainly farmers to detect pest attacks in their farms that will work on it’s own without any human intervention. We are using image processing techniques to differentiate between healthy and defective crops.
+“Farmer’s Friend” is an autonomous ground vehicle (rover) designed to increase the quality and yield of crops. It is amalgamation of software and hardware which will be used by the customers mainly farmers to detect pest attacks in their farms that will work on it’s own without any human intervention. We are using image processing techniques to differentiate between healthy and defective crops.
 
 Main features of our product are :-
 Fully automated, can work with minimal user intervention.
